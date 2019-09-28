@@ -1,2 +1,3 @@
 # customs_cvat_anno
-cvat annotation of customs data
+
+This is cvat annotation repository of customs data
